@@ -1,0 +1,19 @@
+.markdown-editor {
+    display: flex;
+    flex: 1;
+    height: 100%;
+  }
+  
+  .input {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-right: 1px solid #ddd;
+  }
+  
+  .output {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    overflow-y: auto;
+  }

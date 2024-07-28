@@ -1,0 +1,20 @@
+Functionality
+    
+    Editor like MS word (Rich Text Editor) (Normal)
+    Toolkit
+    Side by side (editor and preview) (Dev)
+    Sync with github
+    Auth with github // Later
+    To .md
+    To .pdf
+    To .txt
+    To .html
+    Gifs support
+    Image support
+    Code syntax highlighting
+    Multiple file 
+    
+    
+    Flowchart maybe 
+    Table maybe
+    

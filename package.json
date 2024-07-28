@@ -1,0 +1,47 @@
+{
+  "name": "markdown_editor",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@yoopta/accordion": "^4.6.6",
+    "@yoopta/action-menu-list": "^4.6.6",
+    "@yoopta/blockquote": "^4.6.6",
+    "@yoopta/callout": "^4.6.6",
+    "@yoopta/code": "^4.6.6",
+    "@yoopta/editor": "^4.6.6",
+    "@yoopta/embed": "^4.6.6",
+    "@yoopta/exports": "^4.6.6",
+    "@yoopta/file": "^4.6.6",
+    "@yoopta/headings": "^4.6.6",
+    "@yoopta/image": "^4.6.6",
+    "@yoopta/link": "^4.6.6",
+    "@yoopta/link-tool": "^4.6.6",
+    "@yoopta/lists": "^4.6.6",
+    "@yoopta/marks": "^4.6.6",
+    "@yoopta/paragraph": "^4.6.6",
+    "@yoopta/toolbar": "^4.6.6",
+    "@yoopta/video": "^4.6.6",
+    "marked": "^13.0.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "slate": "^0.103.0",
+    "slate-react": "^0.107.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.3",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "eslint-plugin-react-refresh": "^0.4.7",
+    "vite": "^5.3.4"
+  }
+}
